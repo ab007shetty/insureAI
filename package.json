@@ -1,0 +1,8 @@
+{
+  "name": "insurance-ai-platform",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
